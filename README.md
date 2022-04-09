@@ -37,7 +37,7 @@ Pull requests are welcome with the condition that the resource should be free!
 
 ## Level 1 - Intro
 
-- [ ] OpenVPN <https://tryhackme.com/room/openvpn>
+- [x] OpenVPN <https://tryhackme.com/room/openvpn>
 - [ ] Welcome <https://tryhackme.com/jr/welcome>
 - [ ] Intro to Researching <https://tryhackme.com/room/introtoresearch>
 - [ ] Linux Fundamentals 1 <https://tryhackme.com/room/linuxfundamentalspart1>
